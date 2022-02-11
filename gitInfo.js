@@ -82,7 +82,11 @@ console.log(gitAddCode);
 */
 
 //CODE HERE
-
+let gitCommitDefinition =
+  " git commit is create a snapshot of the files I’m tracking";
+console.log(gitCommitDefinition);
+let gitCommitCode = "initial commit";
+console.log(gitCommitCode);
 //////////////////PROBLEM 8////////////////////
 /*
     Create a variable called 'gitPushDefinition'.  
