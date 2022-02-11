@@ -1,5 +1,6 @@
 /*
-    For this section of the assessment you will be putting together a cheat sheet for common git commands.  
+    For this section of the assessment you will be putting together a cheat sheet 
+    for common git commands.  
     You'll provide the command as well as what it does. 
 */
 
@@ -10,6 +11,9 @@
 */
 
 //CODE HERE
+
+let gitDefinition = "Git is a version control system";
+console.log(gitDefinition);
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -64,7 +68,6 @@
 */
 
 //CODE HERE
-
 
 //////////////////PROBLEM 8////////////////////
 /*
