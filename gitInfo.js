@@ -23,6 +23,9 @@ console.log(gitDefinition);
 
 //CODE HERE
 
+let gitHubDefinition =
+  "GitHub is a Website and essentially a cloud service for your git repositories. ";
+console.log(gitHubDefinition);
 //////////////////PROBLEM 3////////////////////
 /*
     Create a variable called 'gitInitDefinition'.  
