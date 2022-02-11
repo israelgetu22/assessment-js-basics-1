@@ -23,9 +23,13 @@ const numbers = [1, 2, 3, 4, 5];
 
 //CODE HERE
 
-let middleNums = numbers[numbers.length - 1];
-
-console.log(i);
+let middleNums = numbers[0], numbers[1] ,numbers[2]
+ 
+    numbers[0] = numbers[numbers.length /2 - 1]; 
+    numbers[1] = numbers[numbers.length / 2];
+    numbers[2] = nums[(numbers.length / 2)+1] ;
+    
+console.log(middleNums);
 
 //////////////////PROBLEM 4////////////////////
 /* 
